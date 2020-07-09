@@ -10,3 +10,11 @@ _provide sellers a platform to sell and buyers to explore what the want and get 
 ### > Below the seach bar ad listing will be appear. At there least ad will be show.
 
 ![ad listing](images/adlisting.png)
+
+### > Details page will provide all imformation about that product and give contact information. 
+
+![display ad](images/display.png)
+
+### > Below page show how add new ad at there you can choose catagory of your product, upaload image of your product and give your contact information
+
+![add new ad](images/add.png)
